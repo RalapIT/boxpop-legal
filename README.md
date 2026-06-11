@@ -12,7 +12,7 @@ Static files for the public App Store privacy policy and support URLs.
 
 ## Publish
 
-Upload this directory to a public HTTPS static host, such as GitHub Pages, Cloudflare Pages, Netlify, Vercel static hosting, or an existing website.
+Run `AppStore/publish-site.sh` from the repository root to sync this directory to the GitHub Pages repository.
 
 Use the final public URLs in App Store Connect:
 
