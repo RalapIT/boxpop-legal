@@ -16,6 +16,8 @@ Run `AppStore/publish-site.sh` from the repository root to sync this directory t
 
 Use the final public URLs in App Store Connect:
 
+These must remain public HTTPS URLs served by GitHub Pages.
+
 - Privacy Policy URL: `https://ralapit.github.io/boxpop-legal/privacy.html`
 - User Agreement URL: `https://ralapit.github.io/boxpop-legal/terms.html`
 - Support URL: `https://ralapit.github.io/boxpop-legal/support.html`
